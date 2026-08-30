@@ -1,0 +1,10 @@
+# 临时文件
+*.tmp
+
+# WorkBuddy 本地项目数据（不纳入素材版本库，避免跨机冲突）
+.workbuddy/
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
